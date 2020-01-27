@@ -3,7 +3,7 @@ An indigo modified theme
 
 Clone the theme repository:
 
-'git clone https://github.com/overhangio/indigo ' 
+git clone https://github.com/Riadlx/myindigo.git
 
 
 Render your theme:
